@@ -6,9 +6,9 @@ The site promotes live saxophone services for weddings, private events, cocktail
 
 ## Website Features
 
-* Information about live saxophone performance services
+* Information about live saxophone performance 
 * Embedded performance videos
-* Photo gallery from past events
+* Photo gallery 
 * Contact information for booking
 
 ## Technologies Used
