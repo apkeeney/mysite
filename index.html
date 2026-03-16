@@ -189,17 +189,17 @@ h1, h2, h3 {
             line-height: 1.8;
         }
 
-        .about-image {
-            width: 100%;
-            height: 100px;
-            background: linear-gradient(135deg, #d4af37, #bfa02f);
-            border-radius: 4px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-size: 3rem;
-        }
+      .about-image {
+    width: 100%;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.about-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
         /* Contact */
         .contact {
